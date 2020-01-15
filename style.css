@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-salmon{
+  background-color: salmon;
+}
+
+.circle{
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.header-title{
+  width: 350px;
+  /* text-align: left; */
+}
+
+.header-job{
+  letter-spacing: 10px;
+}
+
+.icon .material-icons-outlined{
+  font-size: 100px;
+  line-height: 1.5;
+}
+
+.subject-title{
+  text-align: center;
+}
+
+.line{
+  background-color: salmon;
+  width: 10px;
+  border-radius: 10px;
+}
+
+.description{
+    width:300px;
+}
+
+.footer{
+  margin: 3rem 0;
+  width: 80%;
+  height: 50px;
+  background-color: salmon;
+  border-radius: 10px;
+}
+
+.footer-description{
+  color: white;
+}
+
+
+@media screen and (max-width:767px){
+    .header-title{
+        width: 350px;
+        padding-top: 2rem;
+    }
+
+    .line{
+        width: 70%;
+        height: 10px;
+        margin: 30px 0;
+    }
+}
