@@ -14,7 +14,9 @@
 }
 
 .header-title{
-  width: 350px;
+  width: 400px;
+  font-weight: 400;
+  line-height: 1.75;
   /* text-align: left; */
 }
 
@@ -29,6 +31,7 @@
 
 .subject-title{
   text-align: center;
+  letter-spacing: 3px;
 }
 
 .line{
