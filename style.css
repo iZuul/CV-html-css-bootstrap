@@ -8,6 +8,26 @@
   background-color: salmon;
 }
 
+.bg-html{
+    background-color: rgb(230, 75, 57);
+}
+
+.bg-css{
+  background-color: cornflowerblue;
+}
+
+.bg-js{
+  background-color: rgb(111, 211, 11);
+}
+
+.bg-bs{
+  background-color: #563D7C;
+}
+
+.bg-vue{
+  background-color: #4FC08D;
+}
+
 .circle{
   border-radius: 50%;
   object-fit: cover;
@@ -42,6 +62,7 @@
 
 .description{
     width:300px;
+    margin:10px 0 10px 0;
 }
 
 .footer{
@@ -54,6 +75,10 @@
 
 .footer-description{
   color: white;
+}
+
+.progress-bar {
+    width: 0;
 }
 
 
