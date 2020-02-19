@@ -68,13 +68,15 @@
 .footer{
   margin: 3rem 0;
   width: 80%;
-  height: 50px;
+  height: auto;
   background-color: salmon;
   border-radius: 10px;
+  font-size: 20px;
 }
 
 .footer-description{
   color: white;
+  padding: 1.5rem;
 }
 
 .progress-bar {
