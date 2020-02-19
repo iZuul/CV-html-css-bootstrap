@@ -2,4 +2,6 @@
 User-agent: *
 Allow: /
 
+google-site-verification=lcEYogackGXyZlhb_nev_5n47fsRtaoS2pyb-E__hFo
+
 Sitemap: https://izuul-cv.netlify.com/index.html
