@@ -1,10 +1,7 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <style type="text/css" id="night-mode-pro-style">
-        html {background-color: #FFFFFF !important;} body {background-color: #FFFFFF;}
-    </style>
-    <link type="text/css" rel="stylesheet" id="night-mode-pro-link"/>
-    <url>
-        <loc>https://izuul-cv.netlify.com/</loc>
-        <lastmod>2020-02-23T09:20:35+00:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"> 
+  <url>
+    <loc>https://izuul-cv.netlify.com/</loc>
+    <lastmod>2020-02-23T09:20:35+00:00</lastmod>
+  </url>
 </urlset>
